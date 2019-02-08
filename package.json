@@ -1,0 +1,48 @@
+{
+  "name": "gix-building",
+  "version": "1.0.0",
+  "description": "Mastery Building a Distribution - Gulp.js - The streaming build",
+  "main": "gix-building.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeIsabelleX/gix-building.git"
+  },
+  "keywords": [
+    "gix"
+  ],
+  "author": "Guillaume Isabelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeIsabelleX/gix-building/issues"
+  },
+  "homepage": "https://github.com/GuillaumeIsabelleX/gix-building#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-bump": "^3.1.3",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-filter": "^5.1.0",
+    "gulp-git": "^2.9.0",
+    "gulp-git-push": "^2.0.0",
+    "gulp-inject": "^5.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-shell": "^0.6.5",
+    "gulp-tag-version": "^1.3.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "gulp-wait": "^0.0.2",
+    "gulp-watch": "^5.0.1",
+    "merge-stream": "^1.0.1",
+    "run-sequence": "^2.2.1",
+    "tlid": "^1.0.9"
+  }
+}
